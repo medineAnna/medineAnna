@@ -1,4 +1,10 @@
-<h3 align="center">QA Automation Engineer/SDET from Germany</h3>
+<img src="https://github.com/medineAnna/medineAnna/blob/main/_.jpeg?raw=true">
+
+<h1 align="right">Hi, Welcome To My Github Profile 👋 👋 👋</h1>
+
+<p align="justify">I'm Medine. I am sharing my projects in here. I usually using Java programming language for projects.</p>
+
+<h3 align="center">QA Automation Engineer|SDET from Germany</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=medineanna&label=Profile%20views&color=0e75b6&style=flat" alt="medineanna" /> </p>
 

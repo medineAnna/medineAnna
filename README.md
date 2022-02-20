@@ -1,4 +1,4 @@
-<img src="https://github.com/medineAnna/medineAnna/blob/main/Untaian%20Kata%20__%20By%20Mentari_na%20-%20Khayal%20Luka_.gif?raw=true">
+<img src="https://github.com/medineAnna/medineAnna/blob/main/_.jpeg?raw=true">
 
 <h1 align="center">Hi, Welcome To My Github Profile 👋 👋 👋</h1>
 

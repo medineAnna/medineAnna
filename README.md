@@ -33,5 +33,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=medineanna&show_icons=true&locale=en&layout=compact" alt="medineanna" /></p>
 
 
-  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=medineanna&count_private=true&theme=radical&show_icons=true" alt="medineanna" /p>
+  <p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=medineanna&count_private=true&theme=radical&show_icons=true" alt="medineanna" /p>
 

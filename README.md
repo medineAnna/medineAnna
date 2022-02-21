@@ -1,6 +1,6 @@
 <img src="https://github.com/medineAnna/medineAnna/blob/main/_.jpeg?raw=true">
 
-<h1 align="center"><Hi,Welcome To My Github Profile 👋🏻👋🏻👋🏻</h1>
+<h1 align="center"><Hi,Welcome To My Github Profile🏻</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23732DA4&lines=QA+Automation+Engineer+%7C+Germany;I'm+Medine;I+am+sharing+my+projects+in+here;I+usually+using+;Java+programming+language+for+projects)](https://git.io/typing-svg)
 

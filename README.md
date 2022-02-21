@@ -33,5 +33,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=medineanna&show_icons=true&locale=en" alt="medineanna" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=medineanna&" alt="medineanna" /></p>
+<p><img align="center" src="[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=medineAnna&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)" alt="medineanna" /></p>
 

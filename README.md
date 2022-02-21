@@ -1,8 +1,10 @@
 <img src="https://github.com/medineAnna/medineAnna/blob/main/_.jpeg?raw=true">
 
 <h1 align="center"><Hi,Welcome To My Github Profile🏻</h1>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23732DA4&lines=QA+Automation+Engineer+%7C+Germany;I'm+Medine;I+am+sharing+my+projects+in+here;I+usually+using+;Java+programming+language+for+projects)](https://git.io/typing-svg)
   
-  - 🔭 I’m currently working as e Tester on [Hotelmycamp](https://www.hotelmycamp.com/)
+- 🔭 I’m currently working as e Tester on [Hotelmycamp](https://www.hotelmycamp.com/)
 
 - 🌱 I’m currently learning **Cucumber**
 
@@ -11,8 +13,6 @@
 - 📫 How to reach me **medine.an@gmail.com**
 
 - ⚡ Fun fact **I'm Midwife. What's your superpower?👶**
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23732DA4&lines=QA+Automation+Engineer+%7C+Germany;I'm+Medine;I+am+sharing+my+projects+in+here;I+usually+using+;Java+programming+language+for+projects)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=medineanna&label=Profile%20views&color=0e75b6&style=flat" alt="medineanna" /> </p>
 
@@ -34,6 +34,4 @@
 
 
   <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=medineanna&count_private=true&theme=radical&show_icons=true" alt="medineanna" /p>
-
-<p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=medineAnna&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D" alt="medineanna" /></p>
 

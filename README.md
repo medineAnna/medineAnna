@@ -32,7 +32,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=medineanna&show_icons=true&locale=en&layout=compact" alt="medineanna" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=medineanna&show_icons=true&locale=en" alt="medineanna" /></p>
+
+  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Vaibhav-afk&count_private=true&theme=radical&show_icons=true" alt="medineanna" /p>
 
 <p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=medineAnna&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D" alt="medineanna" /></p>
 

@@ -2,10 +2,7 @@
 
 <h1 align="center">Hi, Welcome To My Github Profile 👋 👋 👋</h1>
 
-<h3 align="center">QA Automation Engineer|SDET from Germany</h3>
-
-
-<p align="justify">I'm Medine. I am sharing my projects in here. I usually using Java programming language for projects.</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23732DA4&lines=QA+Automation+Engineer+%7C+Germany;I'm+Medine;I+am+sharing+my+projects+in+here;I+usually+using+;Java+programming+language+for+projects)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=medineanna&label=Profile%20views&color=0e75b6&style=flat" alt="medineanna" /> </p>
 

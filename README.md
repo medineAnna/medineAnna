@@ -14,8 +14,9 @@
 
 - ⚡ Fun fact **I'm Midwife. What's your superpower?👶**
 
-<p align="left"> <img src="https:/medineanna.app/?username=ryo-ma&theme=medineanna" alt="medineanna" /></p>
-
+<p align="center">
+  <img width="660" src="https://medineanna-images.medineanna.com/6661165/92327052-d99b9e00-f091-11ea-9a24-c7ec86982370.png">
+</p>
 
  
 <h3 align="left">Connect with me:</h3>

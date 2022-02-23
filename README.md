@@ -14,8 +14,6 @@
 
 - ⚡ Fun fact **I'm Midwife. What's your superpower?👶**
 
-<p align="right"> <img src="https://medineAnna.vercel.app/?username=medineanna&theme=gruvbox" alt="medineanna" /> </p>
-
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=medineanna" alt="medineanna" /></p>
 
  

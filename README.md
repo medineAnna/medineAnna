@@ -29,10 +29,12 @@
   <br/>
 <p align ="center"> <img src="https://activity-graph.herokuapp.com/graph?username=medineanna&theme=lucent" alt="medineanna_contribution-graph"/>
 <br />
+  
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=medineanna&show_icons=true&locale=en&layout=compact" alt="medineanna" /></p>
 
 
   <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=medineanna&count_private=true&theme=radical&show_icons=true" alt="medineanna" /p>
 
+  
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=medineAnna&theme=onedark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)

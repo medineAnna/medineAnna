@@ -14,11 +14,7 @@
 
 - ⚡ Fun fact **I'm Midwife. What's your superpower?👶**
 
-<p align="center">
-  <img width="660" src="https://medineanna-images.medineanna.com/6661165/92327052-d99b9e00-f091-11ea-9a24-c7ec86982370.png">
-</p>
 
- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/medine-annamammedova-7185351a2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/medine-annamammedova" height="30" width="40" /></a>

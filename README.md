@@ -4,11 +4,11 @@
   
 - 🔭 I’m currently working as e Tester on [Hotelmycamp](https://www.hotelmycamp.com/)
 
-- 🌱 I’m currently learning **Cucumber**
+- 🌱 I’m currently learning **Appium**
 
-- 💬 Ask me about **Java, HTML, MySQL, Selenium4, TestNG, JUnit, Cucumber**
+- 💬 Ask me about **Java, TupeScript, HTML, MySQL, Selenium4, TestNG, JUnit, Cucumber**
 
-- 📫 How to reach me **medine.an@gmail.com**
+- 📫 How to reach me **medine.annam@gmail.com**
 
 - ⚡ Fun fact **I'm Midwife. What's your superpower?👶**
 

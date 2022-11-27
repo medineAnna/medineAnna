@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23732DA4&lines=QA+Automation+Engineer+%7C+Germany;I'm+Medine;I+am+sharing+my+projects+in+here;I+usually+using+;Java+programming+language+for+projects)](https://git.io/typing-svg)
   
-- 🔭 I’m currently working as e Tester on [Hotelmycamp](https://www.hotelmycamp.com/)
+- 🔭 I’m currently working as e Tester on Consulting Firma
 
 - 🌱 I’m currently learning **Appium**
 
